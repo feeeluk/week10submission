@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
